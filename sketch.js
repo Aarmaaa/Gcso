@@ -32,11 +32,11 @@ background("black");
       car1.shapeColor=color(225,0,0);
     }
 
-    if(d>10 && d<=15){
+    if(d>10 && d<=20){
       car1.shapeColor=color(230,230,0);
     }  
 
-    if(d>15 && d<=100){
+    if(d>20 && d<=100){
       car1.shapeColor=color("green");
 
     }
